@@ -168,15 +168,18 @@ span a:hover {
     top: 20px;
     left: 47%;
   }
+
   .text {
     position: absolute;
     top: 70%;
     text-align: center;
   }
+
   .text p,
   i {
     font-size: 17px;
   }
+
   .row {
     max-width: 420px;
     width: 100%;
